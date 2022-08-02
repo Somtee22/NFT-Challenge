@@ -1,0 +1,74 @@
+body {
+    background-color: hsl(217, 54%, 11%);
+}
+.card {
+    display: block;
+background: hsl(216, 50%, 16%);
+width: 355px;
+margin-left: auto;
+margin-right: auto;
+padding: 30px;
+margin-top: 70px;
+border-radius: 10px;
+color: hsl(215, 51%, 70%);
+
+
+}
+#imgnft {
+    width: 100%;
+    border-radius: 15px;  
+}
+
+#our{
+    color: white;
+}
+
+.card-details {
+    display: flex;
+    justify-content: space-between;
+}
+    
+
+.one, .two {
+    display: flex;
+    align-items: center;
+}
+.one{
+    font-weight: bold;
+    color: hsl(178, 100%, 50%);
+}
+#eth-icon{
+    width: 10px;
+    height: 18px;
+
+}
+#clock-icon{
+width: 18px;
+height: 18px;
+
+}
+.footer {
+    display: flex;
+    align-items: center;
+}
+
+#face {
+    width: 40px;
+    height: 40px;
+    border: 1px solid white;
+    border-radius: 50%;
+    
+}
+#eth-icon, #clock-icon, #face {
+    margin-right: 10px;
+}
+
+#author {
+    color: white;
+}
+
+
+
+
+
+
